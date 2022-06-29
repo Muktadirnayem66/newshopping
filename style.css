@@ -19,3 +19,48 @@
     border: none;
     cursor: pointer;
 }
+.cat-1,.cat-2,.cat-3{
+    padding: 10px 30px;
+    border-radius: 10px;
+    }
+
+.cat-1{
+    background-color: #ffa500;
+    background-image: linear-gradient(to right, #ffa500, #f1ca81 );
+    
+}
+.cat-2{
+    background-color: #da70d6;
+    background-image: linear-gradient(to right, #da70d6, #eb90e8 );
+}
+.cat-3{
+    background-color: blue;
+    background-image:linear-gradient(to right, blue, rgb(119, 119, 241));
+}
+.categories h1{
+    color: white;
+}
+
+.categories img{
+    width: 100px;
+}
+.card{
+    border: none;
+    box-shadow: 5px 5px 10px lightgray;
+}
+
+.card-footer{
+    background-color: white;
+    border-top: none;
+}
+
+#subscribe{
+    height: 300px;
+}
+#subscribe h6{
+    color: gray;
+
+}
+footer{
+    text-align: center;
+}
